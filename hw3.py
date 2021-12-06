@@ -105,7 +105,7 @@ print('A' + 'BOBA')
 
 
 
-
+# B_Mupe_ecTb_2_Tuna_JII0geu_-_nepBble_geJIaI0T_BblBogbl_Ha_ocHoBe_HenoJIHblx_gaHHblx
 
 
 
